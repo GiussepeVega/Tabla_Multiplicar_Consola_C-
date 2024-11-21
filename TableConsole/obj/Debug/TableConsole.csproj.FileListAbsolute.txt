@@ -1,0 +1,7 @@
+D:\Cursos_de_Programación\Learn C#\TableConsole\TableConsole\bin\Debug\TableConsole.exe.config
+D:\Cursos_de_Programación\Learn C#\TableConsole\TableConsole\bin\Debug\TableConsole.exe
+D:\Cursos_de_Programación\Learn C#\TableConsole\TableConsole\bin\Debug\TableConsole.pdb
+D:\Cursos_de_Programación\Learn C#\TableConsole\TableConsole\obj\Debug\TableConsole.csproj.AssemblyReference.cache
+D:\Cursos_de_Programación\Learn C#\TableConsole\TableConsole\obj\Debug\TableConsole.csproj.CoreCompileInputs.cache
+D:\Cursos_de_Programación\Learn C#\TableConsole\TableConsole\obj\Debug\TableConsole.exe
+D:\Cursos_de_Programación\Learn C#\TableConsole\TableConsole\obj\Debug\TableConsole.pdb
